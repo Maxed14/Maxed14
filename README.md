@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Maxed 👋
 
-<!--
-**Maxed14/Maxed14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications, optimizing workflows, and writing clean, maintainable code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Tools & Environments:** Visual Studio Code, Git, Git Bash
+- **Platforms:** Web Development, MetaTrader/MQL (Algorithms)
+
+---
+
+### 🔗 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/dominic-okonkwo-aa217743a)
+- 📸 [Instagram](https://instagram.com/max_ed14)
+
+---
+
+### 📊 GitHub Stats
+![Maxed's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
